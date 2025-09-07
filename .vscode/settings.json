@@ -1,3 +1,5 @@
 {
-  "workbench.colorTheme": "freeCodeCamp Dark Theme"
+  "workbench.colorTheme": "freeCodeCamp Dark Theme",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.shellIntegration.enabled": true
 }
